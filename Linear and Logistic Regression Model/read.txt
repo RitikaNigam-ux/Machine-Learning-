@@ -1,1 +1,1 @@
-
+In the above jupyter notebook I have coded the linear and logistic regression model from scratch and have compared the results of the two models.
